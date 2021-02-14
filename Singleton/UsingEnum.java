@@ -9,6 +9,8 @@ package Singleton;
 public enum UsingEnum {
     INSTANCE;
 
+    String name;
+
     public void saySomething() {
         System.out.println("Singleton Class using Enum.");
     }
