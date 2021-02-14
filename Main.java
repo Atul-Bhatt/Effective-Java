@@ -15,5 +15,7 @@ public class Main {
         // livingRoom.displayRoomInfo();
         // bedRoom.displayRoomInfo();
 
+        // NonInstantiable willThrowAnError = NonInstantiable.getInstance();
+
     }
 }
